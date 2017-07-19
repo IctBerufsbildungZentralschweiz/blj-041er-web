@@ -255,6 +255,9 @@
                 <a href="http://www.phlu.ch/" target="_blank">
                     <img src="images/logo_phlu.png" alt="Logo PHLU" />
                 </a>
+                <a href="https://www.edp.swiss//" target="_blank">
+                    <img src="images/logo_edp.jpg" alt="Logo edp-services" />
+                </a>
         </div>
     </footer>
     <div id="footer-nav">
