@@ -67,6 +67,65 @@
 		</p>
         <section id="news">
             <h2>News</h2>
+
+            <h3>Jump-In 2017</h3>
+            <span class="date-news">August 2017</span>
+            <p>
+                Bei Traumwetter wanderten die neuen BLJ-Lernenden Dave, Timon, Carolina, Björn, Fynn, Raffi, Jennifer und Cécile von Meiringen nach Grindelwald, mit Übernachtung im Berghotel Grosse Scheidegg auf 1962m ü. M. wo die gegenseitigen Erwartungen geklärt wurden und natürlich auch der Spass nicht zu kurz kam. Es waren zwei tolle Tage mit tollen Lernenden und es bleiben alle heil und auch der Muskelkater am nächsten Tag blieb - scheint's - aus.
+            </p>
+            <div class="gal">
+                <div class="gal-pic">
+                    <a href="images/galleries/4/1m.jpg" data-lightbox="jumpin2017" data-title = "Rosenlauigletscher, Wellhorn">
+                        <img src="images/galleries/4/1s.jpg" />
+                    </a>
+                </div>
+                <div class="gal-pic">
+                    <a href="images/galleries/4/2m.jpg" data-lightbox="jumpin2017" data-title = "Hotel Rosenlaui">
+                        <img src="images/galleries/4/2s.jpg" />
+                    </a>
+                </div>
+                <div class="gal-pic">
+                    <a href="images/galleries/4/3m.jpg" data-lightbox="jumpin2017" data-title = "Gletscherschlucht Rosenlaui">
+                        <img src="images/galleries/4/3s.jpg" />
+                    </a>
+                </div>
+                <div class="gal-pic">
+                    <a href="images/galleries/4/4m.jpg" data-lightbox="jumpin2017" data-title = "Gletscherschlucht Rosenlaui">
+                        <img src="images/galleries/4/4s.jpg" />
+                    </a>
+                </div>
+                <div class="gal-pic">
+                    <a href="images/galleries/4/5m.jpg" data-lightbox="jumpin2017" data-title = "Wanderung zur Schwarzwaldalp">
+                        <img src="images/galleries/4/5s.jpg" />
+                    </a>
+                </div>
+                <div class="gal-pic">
+                    <a href="images/galleries/4/6m.jpg" data-lightbox="jumpin2017" data-title = "Grosse Scheidegg morgens um 7:30 Uhr">
+                        <img src="images/galleries/4/6s.jpg" />
+                    </a>
+                </div>
+                <div class="gal-pic">
+                    <a href="images/galleries/4/7m.jpg" data-lightbox="jumpin2017" data-title = "First Cliff Walk">
+                        <img src="images/galleries/4/7s.jpg" />
+                    </a>
+                </div>
+                <div class="gal-pic">
+                    <a href="images/galleries/4/8m.jpg" data-lightbox="jumpin2017" data-title = "First Cliff Walk">
+                        <img src="images/galleries/4/8s.jpg" />
+                    </a>
+                </div>
+                <div class="gal-pic">
+                    <a href="images/galleries/4/9m.jpg" data-lightbox="jumpin2017" data-title = "First Flyer, Vorbereitungen">
+                        <img src="images/galleries/4/9s.jpg" />
+                    </a>
+                </div>
+                <div class="gal-pic">
+                    <a href="images/galleries/4/10m.jpg" data-lightbox="jumpin2017" data-title = "Gruppe vor dem Wetterhorn">
+                        <img src="images/galleries/4/10s.jpg" />
+                    </a>
+                </div>
+            </div> <!-- /gal -->  
+        
             <h3>Semesterende</h3>
             <span class="date-news">Februar 2017</span>
             <p>Bei einem Bier respektive einer Cola wurde am Freitag 03.02.2017 im <a href="http://www.oopsbar.ch/" target="_blank">Oops</a> in Luzern das erste Basislehrjahr-Semester beschlossen. 
@@ -166,7 +225,7 @@
 			    Ihr Browser kann dieses Video nicht wiedergeben.
 		    </video>
 
-            <h3>Jump-In Event</h3>
+            <h3>Jump-In 2016</h3>
             <span class="date-news">August 2016</span>
             <p>
                 Einige Impressionen vom 2-tägigen Jump-In Event vom 18./19. August 2016. Trotz Regens am ersten Tag: Toll war’s! Besten Dank an die Lernenden für das engagierte Mitmachen bei den abendlichen Workshops und herzliche Gratulation zur ausdauernden Wanderleistung :).
