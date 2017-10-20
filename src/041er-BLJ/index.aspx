@@ -71,7 +71,7 @@
             <h3>Jump-In 2017</h3>
             <span class="date-news">August 2017</span>
             <p>
-                Bei Traumwetter wanderten die neuen BLJ-Lernenden Dave, Timon, Carolina, Björn, Fynn, Raffi, Jennifer und Cécile von Meiringen nach Grindelwald, mit Übernachtung im Berghotel Grosse Scheidegg auf 1962m ü. M. wo die gegenseitigen Erwartungen geklärt wurden und natürlich auch der Spass nicht zu kurz kam. Es waren zwei tolle Tage mit tollen Lernenden und es bleiben alle heil und auch der Muskelkater am nächsten Tag blieb - scheint's - aus.
+                Bei Traumwetter wanderten die neuen BLJ-Lernenden Dave, Timon, Carolina, Björn, Fynn, Raffi, Jennifer und Cécile von Meiringen nach Grindelwald, mit Übernachtung im Berghotel Grosse Scheidegg, wo die Erwartungen an das Basislehrjahr und die Lehre geklärt wurden und auch der Spass nicht zu kurz kam. Es waren zwei tolle Tage mit tollen Lernenden! Wir freuen uns auf die kommenden Monate.
             </p>
             <div class="gal">
                 <div class="gal-pic">
@@ -154,21 +154,6 @@
             </p>
              <div class="gal">
                 <div class="gal-pic">
-                    <a href="images/galleries/2/01m.jpg" data-lightbox="rueckblick-1" data-title = "Gruppenleitbild">
-                        <img src="images/galleries/2/01s.jpg" />
-                    </a>
-                </div>
-                <div class="gal-pic">
-                    <a href="images/galleries/2/02m.jpg" data-lightbox="rueckblick-1" data-title = "Präsentationstechnik">
-                        <img src="images/galleries/2/02s.jpg" />
-                    </a>
-                </div>
-                <div class="gal-pic">
-                    <a href="images/galleries/2/03m.jpg" data-lightbox="rueckblick-1" data-title = "Präsentationstechnik">
-                        <img src="images/galleries/2/03s.jpg" />
-                    </a>
-                </div>
-                <div class="gal-pic">
                     <a href="images/galleries/2/04m.jpg" data-lightbox="rueckblick-1" data-title = "Gruppenarbeit">
                         <img src="images/galleries/2/04s.jpg" />
                     </a>
@@ -178,7 +163,6 @@
                         <img src="images/galleries/2/05s.jpg" />
                     </a>
                 </div>
-
                 <div class="gal-pic">
                     <a href="images/galleries/2/06m.jpg" data-lightbox="rueckblick-1" data-title = "Vorbereitung auf den ÜK M304">
                         <img src="images/galleries/2/06s.jpg" />
@@ -314,8 +298,11 @@
                 <a href="http://www.phlu.ch/" target="_blank">
                     <img src="images/logo_phlu.png" alt="Logo PHLU" />
                 </a>
-                <a href="https://www.edp.swiss//" target="_blank">
+                <a href="https://www.edp.swiss/" target="_blank">
                     <img src="images/logo_edp.jpg" alt="Logo edp-services" />
+                </a>
+                <a href="https://www.also.ch/" target="_blank">
+                    <img src="images/logo-also.jpg" alt="Logo ALSO" />
                 </a>
         </div>
     </footer>

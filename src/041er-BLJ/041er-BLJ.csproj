@@ -149,6 +149,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="images\galleries\3\" />
+    <Folder Include="images\galleries\4\" />
     <Folder Include="js\" />
   </ItemGroup>
   <PropertyGroup>
