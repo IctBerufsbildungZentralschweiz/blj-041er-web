@@ -68,7 +68,36 @@
         <section id="news">
             <h2>News</h2>
 
-            <h3>Semesterende</h3>
+            <h3>Das erste 4. Semester</h3>
+            <span class="date-news">Juli 2018</span>
+            <p>
+                Die BLJ-Pioniere, die im Herbst 2016 ihre Informatiker-Lehre bei uns in Adligenswil starteten, blicken bereits auf das 4.Semester ihrer Lehre und damit auf ihren zweiten Einsatz im Basislehrjahr zurück. Die Lernenden haben sehr engagiert und erfolgreich an Projekten, die sie aus dem Lehrbetrieb mit ins Basislehrjahr gebracht haben, gearbeitet. 
+            </p>
+            <p>
+            Entwickelt wurden: 
+              </p>   
+                <ul>
+                    <li>eine Lern-App</li>
+                    <li>ein Info-Terminal System</li>
+                </ul>
+            <p>Die Lern-App soll bei der CSS-Versicherung in der Mitarbeiterschulung eingesetzt werden. Und das Info-Terminal System "Raspi 2.0" kommt am Hauptsitz der Komax sowie in den Niederlassungen in Rotkreuz und Küssnacht zum Einsatz. Beeindruckend war - unter vielem anderem - zu sehen, wie die Applis ihr Projekt komplett selbstorganisiert und agil mit Scrum durchgeführt haben. 
+            </p>
+           <p>
+                <a href="images/scrum-lernapp.jpg" data-lightbox="csslernapp" data-title = "Scrum">
+                    <img src="images/scrum-lernapp_s.jpg" />
+                </a>
+                <a href="images/brainstorm-lernapp.jpg" data-lightbox="csslernapp" data-title = "Brainstorming">
+                    <img src="images/brainstorm-lernapp_s.jpg" />
+                </a>
+                <a href="images/db-lernapp.jpg" data-lightbox="csslernapp" data-title = "Mockups">
+                    <img src="images/db-lernapp_s.jpg" />
+                </a>
+            </p>
+            <p>
+                Ein <strong>grosses Dankeschön an die Lehrbetriebe und Praxisbildner</strong> für die tolle Zusammenarbeit. Dank eurer Unterstützung und Hilfe wurden tolle Resultate erzielt und  die Lernenden konnten enorm profitieren und sich weiterentwickeln. 
+            </p>
+
+           <h3>Semesterende</h3>
             <span class="date-news">Februar 2018</span>
             <p>
                 Ein tolles BLJ-Semester ist zu Ende... ...es wurde sehr motiviert gearbeitet, viel gelernt und auch der Spass kam nicht zu kurz.<br />
@@ -78,7 +107,6 @@
                 <a href="images/collage_2018.jpg" data-lightbox="semesterEnde2018" data-title = "Danke für euren Einsatz!">
                     <img src="images/collage_2018_s.jpg" />
                 </a>
-
             </p>
 
             <h3>Happy 2018</h3>
