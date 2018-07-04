@@ -18,7 +18,7 @@ namespace _041er_BLJ.classes
             {
                 string projectKey = Path.GetFileName(projectDirs).Replace("_", " ");
                 projects.Add(projectKey, new List<Project>());
-
+                
                 foreach (string projectDir in Directory.GetDirectories(projectDirs))
                 {
                     Project p = new Project();

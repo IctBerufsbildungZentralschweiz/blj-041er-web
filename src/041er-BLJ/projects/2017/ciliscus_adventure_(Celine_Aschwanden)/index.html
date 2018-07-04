@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html
+<head>
+	<meta charset="utf-8" />
+	<title>ICT-Berufsbildung Zentralschweiz | Basislehrjahr | Webabstracts</title>
+	<style>
+		body { margin:0 auto; font-family: Arial, Helvetica, sans-serif; width:80%;}
+		main { width:95%; min-width:50%;}
+		main > *:nth-child(2) { float:right;border:solid #555555 1px; margin: 1.5em  1.5em; } 
+		main > *:nth-child(2) *:first-child { background:#555555; margin:0;min-width:200px;padding:5px;color:#fff; }
+		main > *:nth-child(2) h4 { margin:0; padding: 5px; }
+		main > *:nth-child(2) p { margin:0; padding: 5px; }
+		footer { font-size: 0.8em; color:#999999; padding-top:4px; margin-top:5.0em; border-top: solid 1px rgba(153,153,153, 0.5); }
+		#image {width:35%}
+	</style>
+</head>
+<body>
+   <header>
+       <img src="http://041er-blj.ch/images/ict-bz-logo.jpg" alt="Logo ICT-BZ" />
+   </header>
+   <main>
+		
+		<h1>Ciliscus Adventure</h1>
+   
+		<section>
+			<h3>Kurzinfo</h3>
+			
+			<h4>Themenbereich</h4>
+			<p>Software-/Spielentwicklung</p>
+			
+			<h4>Lernende/r</h4>
+			<p>Céline Aschwanden</p>
+			
+			<h4>Lehrbetrieb</h4>
+			<p>Pädagogische Hochschule Luzern</p>
+			
+			<h4>Betreuer</h4>
+			<p>Urs Nussbaumer</p>
+		</section>
+		<section>
+			
+			<h2>Aufgabenstellung</h2>
+			<p>
+				Mein Ziel ist es ein Multiplayer RPG (Role-Playing Game) zu erstellen, in welchem Spieler zusammen eine Welt erkunden können, Monster bekämpfen und Aufgaben lösen können. 
+				Jeder Spieler soll einen Namen und eine Farbe für seine Spielfigur wählen und in einem Chat mit anderen Spielern kommunizieren können.
+			</p>
+			<h2>Ergebnisse</h2>
+			<p>
+				Vom Geplanten konnte ich noch nicht alles umsetzen. Womit ich aber fertig wurde:
+				<ul>
+					<li>Spieler können sich lokal oder übers Internet verbinden</li>
+					<li>Jeder kann einen Namen und eine Farbe wählen, welche im Spiel angezeigt wird</li>
+					<li>Im Spiel können sie den Charakter und die Kamera bewegen</li>
+					<li>In einem Chat, der ein- und ausgeblendet werden kann, können die Spieler kommunizieren</li>
+					<li>Durch das Klicken auf eine Tür können Häuser betreten werden, dabei wird die Perspektive des Spielers geändert (teilweise fertig)</li>
+				</ul>
+				<img src = "gamescreenshot.png" alt = "Screenshot vom Spiel" id = "image">
+			</p>	  
+			<h2>Lösungskonzept</h2>
+			<p>
+				Zum Programmieren habe ich C# benutzt und als Spiel-Engine Unity 3D. Für die meisten Objekte habe ich Assets aus dem Unity Asset Store benutzt. Die Scripts habe ich aber
+				selber geschrieben. Für das Spielen übers Internet konnte ich das Spiel mit von Unity bereitgestellten Servern verbinden. Beim Arbeiten musste ich immer wieder verschiedene
+				Network-Komponenten verwenden und auch beim Schreiben der Scripts das Networking beachten. So konnte ich zum Beispiel erreichen, dass der Spieler in der 
+				First-Person-Perspektive andere Spieler aber nicht sich selber sieht.
+			</p>	 
+			<h2>Aufgetretene Probleme</h2>
+			<p>
+				Wie schon erwähnt konnte ich vom Geplanten noch nicht alles umsetzen. Dies hat zum Teil den Grund, dass ich in der letzten Woche bevor Projektende weniger Zeit hatte und
+				zum anderen die Überschätzung bei der Planung. Für die verschiedenen Ziele habe ich meistens länger gebraucht als geplant. Während dem Arbeiten am Projekt sind mehrmals
+				Probleme aufgetaucht für die ich oft lange nach einer Lösung suchen musste, obwohl die Lösung eher simpel war. Das waren Probleme mit der Engine aber auch beim Programmieren.		
+			</p>
+			<h2>Ausblick</h2>
+			<p>
+				In Zukunft werde ich sicher noch in der Freizeit am Spiel weiterarbeiten, da mir einerseits das Erstellen und andererseits das Testen/Spielen mit Freunden Spass macht.
+			</p>
+			<br>
+			<h3>Download:</h3>
+			<iframe width="580" frameborder="0" height="167" src="https://itch.io/embed/208892"></iframe>
+		</section>
+	</main>
+	<footer>
+	ICT-Berufsbildung Zentralschweiz - Basislehrjahr - Lernendenprojekte 
+	</footer>
+</body>
+</html>

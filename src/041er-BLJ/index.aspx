@@ -68,10 +68,29 @@
         <section id="news">
             <h2>News</h2>
 
+            <h3>Semesterende</h3>
+            <span class="date-news">Februar 2018</span>
+            <p>
+                Ein tolles BLJ-Semester ist zu Ende... ...es wurde sehr motiviert gearbeitet, viel gelernt und auch der Spass kam nicht zu kurz.<br />
+                <strong>Toi toi toi und einen guten Start im Lehrbetrieb</strong>! Danke für euer Engagement und bis bald im 4. Semester, liebe Lernende!</strong>
+            </p>
+            <p>
+                <a href="images/collage_2018.jpg" data-lightbox="semesterEnde2018" data-title = "Danke für euren Einsatz!">
+                    <img src="images/collage_2018_s.jpg" />
+                </a>
+
+            </p>
+
+            <h3>Happy 2018</h3>
+            <span class="date-news">Januar 2018</span>
+            <p>
+                Das BLJ-Team wünscht euch ein frohes und erfolgreiches neues Jahr 2018. 
+            </p>
+
             <h3>Jump-In 2017</h3>
             <span class="date-news">August 2017</span>
             <p>
-                Bei Traumwetter wanderten die neuen BLJ-Lernenden Dave, Timon, Carolina, Björn, Fynn, Raffi, Jennifer und Cécile von Meiringen nach Grindelwald, mit Übernachtung im Berghotel Grosse Scheidegg, wo die Erwartungen an das Basislehrjahr und die Lehre geklärt wurden und auch der Spass nicht zu kurz kam. Es waren zwei tolle Tage mit tollen Lernenden! Wir freuen uns auf die kommenden Monate.
+                Bei Traumwetter wanderten die neuen BLJ-Lernenden Dave, Timon, Carolina, Björn, Fynn, Raffi, Jennifer und Céline von Meiringen nach Grindelwald, mit Übernachtung im Berghotel Grosse Scheidegg, wo die Erwartungen an das Basislehrjahr und die Lehre geklärt wurden und auch der Spass nicht zu kurz kam. Es waren zwei tolle Tage mit tollen Lernenden! Wir freuen uns auf die kommenden Monate.
             </p>
             <div class="gal">
                 <div class="gal-pic">
