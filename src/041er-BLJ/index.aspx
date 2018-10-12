@@ -68,6 +68,19 @@
         <section id="news">
             <h2>News</h2>
 
+            <h3>Basislehrjahr Jahrgang 18/19</h3>
+            <span class="date-news">September 2018</span>
+            <p>Sorry für die Verspätung: die Lernenden sind nicht erst im September gestartet, sondern das Basislehrlahr startete natürlich bereits am 14. August.               
+            </p>
+            <p>In der Zwischenzeit ist einiges passiert. Die Lernenden haben u.a. ein 
+                Gruppenleitbild erarbeitet, Präsentationstechniken geübt und bereits 
+                den ersten ÜK (Modul 304) absolviert (ob erfolgreich oder nicht ist bis dato unbekannt ->noch keine Noten erhalten).
+            </p>
+            <p>Hier die Protagonisten des Basislehrjahres Ausgabe 18/19. 
+
+            </p>
+            <img src="images/blj-ll-201819.jpg" alt="Bild der Lernenden"/>
+
             <h3>Das erste 4. Semester</h3>
             <span class="date-news">Juli 2018</span>
             <p>
