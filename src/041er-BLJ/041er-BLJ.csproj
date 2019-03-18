@@ -108,11 +108,14 @@
     <Content Include="images\galleries\2\12m.jpg" />
     <Content Include="images\galleries\2\12s.jpg" />
     <Content Include="images\intro.png" />
+    <Content Include="images\logo-also.jpg" />
     <Content Include="images\logo_calida.png" />
     <Content Include="images\logo_css.png" />
     <Content Include="images\logo_ict-bz.png" />
     <Content Include="images\logo_ict-bz_small.png" />
     <Content Include="images\logo_komax.png" />
+    <Content Include="images\logo_lukb.jpg" />
+    <Content Include="images\logo_maxon.jpg" />
     <Content Include="images\logo_phlu.png" />
     <Content Include="images\xxx.jpg" />
     <Content Include="packages.config" />

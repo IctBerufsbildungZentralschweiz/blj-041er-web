@@ -68,71 +68,19 @@
         <section id="news">
             <h2>News</h2>
 
-            <h3>Basislehrjahr Jahrgang 18/19</h3>
-            <span class="date-news">September 2018</span>
-            <p>Sorry für die Verspätung: die Lernenden sind nicht erst im September gestartet, sondern das Basislehrlahr startete natürlich bereits am 14. August.               
+            <h3>Der Jahrgang 18/19</h3>
+            <span class="date-news">August 2018</span>
+            <p>Herzlich Willkommen!  
             </p>
-            <p>In der Zwischenzeit ist einiges passiert. Die Lernenden haben u.a. ein 
-                Gruppenleitbild erarbeitet, Präsentationstechniken geübt und bereits 
-                den ersten ÜK (Modul 304) absolviert (ob erfolgreich oder nicht ist bis dato unbekannt ->noch keine Noten erhalten).
-            </p>
-            <p>Hier die Protagonisten des Basislehrjahres Ausgabe 18/19. 
+            <img src="images/blj-ll-201819.jpg" alt="Bild der Lernenden 2018"/>
 
-            </p>
-            <img src="images/blj-ll-201819.jpg" alt="Bild der Lernenden"/>
-
-            <h3>Das erste 4. Semester</h3>
-            <span class="date-news">Juli 2018</span>
-            <p>
-                Die BLJ-Pioniere, die im Herbst 2016 ihre Informatiker-Lehre bei uns in Adligenswil starteten, blicken bereits auf das 4.Semester ihrer Lehre und damit auf ihren zweiten Einsatz im Basislehrjahr zurück. Die Lernenden haben sehr engagiert und erfolgreich an Projekten, die sie aus dem Lehrbetrieb mit ins Basislehrjahr gebracht haben, gearbeitet. 
-            </p>
-            <p>
-            Entwickelt wurden: 
-              </p>   
-                <ul>
-                    <li>eine Lern-App</li>
-                    <li>ein Info-Terminal System</li>
-                </ul>
-            <p>Die Lern-App soll bei der CSS-Versicherung in der Mitarbeiterschulung eingesetzt werden. Und das Info-Terminal System "Raspi 2.0" kommt am Hauptsitz der Komax sowie in den Niederlassungen in Rotkreuz und Küssnacht zum Einsatz. Beeindruckend war - unter vielem anderem - zu sehen, wie die Applis ihr Projekt komplett selbstorganisiert und agil mit Scrum durchgeführt haben. 
-            </p>
-           <p>
-                <a href="images/scrum-lernapp.jpg" data-lightbox="csslernapp" data-title = "Scrum">
-                    <img src="images/scrum-lernapp_s.jpg" />
-                </a>
-                <a href="images/brainstorm-lernapp.jpg" data-lightbox="csslernapp" data-title = "Brainstorming">
-                    <img src="images/brainstorm-lernapp_s.jpg" />
-                </a>
-                <a href="images/db-lernapp.jpg" data-lightbox="csslernapp" data-title = "Mockups">
-                    <img src="images/db-lernapp_s.jpg" />
-                </a>
-            </p>
-            <p>
-                Ein <strong>grosses Dankeschön an die Lehrbetriebe und Praxisbildner</strong> für die tolle Zusammenarbeit. Dank eurer Unterstützung und Hilfe wurden tolle Resultate erzielt und  die Lernenden konnten enorm profitieren und sich weiterentwickeln. 
-            </p>
-
-           <h3>Semesterende</h3>
-            <span class="date-news">Februar 2018</span>
-            <p>
-                Ein tolles BLJ-Semester ist zu Ende... ...es wurde sehr motiviert gearbeitet, viel gelernt und auch der Spass kam nicht zu kurz.<br />
-                <strong>Toi toi toi und einen guten Start im Lehrbetrieb</strong>! Danke für euer Engagement und bis bald im 4. Semester, liebe Lernende!</strong>
-            </p>
-            <p>
-                <a href="images/collage_2018.jpg" data-lightbox="semesterEnde2018" data-title = "Danke für euren Einsatz!">
-                    <img src="images/collage_2018_s.jpg" />
-                </a>
-            </p>
-
-            <h3>Happy 2018</h3>
-            <span class="date-news">Januar 2018</span>
-            <p>
-                Das BLJ-Team wünscht euch ein frohes und erfolgreiches neues Jahr 2018. 
-            </p>
-
-            <h3>Jump-In 2017</h3>
+            <h3>Der Jahrgang 17/18</h3>
             <span class="date-news">August 2017</span>
-            <p>
-                Bei Traumwetter wanderten die neuen BLJ-Lernenden Dave, Timon, Carolina, Björn, Fynn, Raffi, Jennifer und Céline von Meiringen nach Grindelwald, mit Übernachtung im Berghotel Grosse Scheidegg, wo die Erwartungen an das Basislehrjahr und die Lehre geklärt wurden und auch der Spass nicht zu kurz kam. Es waren zwei tolle Tage mit tollen Lernenden! Wir freuen uns auf die kommenden Monate.
+            <p>Die "neuen" Lernenden :). 
             </p>
+            <img src="images/gruppe_2017.jpg" alt="Bild der Lernenden 2017"/>
+
+            <!-- 
             <div class="gal">
                 <div class="gal-pic">
                     <a href="images/galleries/4/1m.jpg" data-lightbox="jumpin2017" data-title = "Rosenlauigletscher, Wellhorn">
@@ -184,8 +132,11 @@
                         <img src="images/galleries/4/10s.jpg" />
                     </a>
                 </div>
-            </div> <!-- /gal -->  
-        
+            </div>
+            -->
+            <!-- /gal -->  
+           
+            <!-- 
             <h3>Semesterende</h3>
             <span class="date-news">Februar 2017</span>
             <p>Bei einem Bier respektive einer Cola wurde am Freitag 03.02.2017 im <a href="http://www.oopsbar.ch/" target="_blank">Oops</a> in Luzern das erste Basislehrjahr-Semester beschlossen. 
@@ -207,11 +158,9 @@
                 <p><q>...hat mir viel Spass gemacht und ich werde es vermissen.</q>
                 </p>
             </div>
-            <h3>Ein erster Rückblick</h3>
-            <span class="date-news">Januar 2017</span>
-            <p>
-                In drei Wochen ist das erste Semester geschafft. Die Lernenden haben in den vergangenen Monaten mit grossem Engagement gearbeitet, geworkshopt, gelernt und bewiesen, dass sie sich für den richtigen Beruf entschieden haben. Hier ein paar Bilder, die einen kleinen Eindruck vermitteln, was im ersten Semester geleistet wurde.   
-            </p>
+            --> 
+
+            <!-- 
              <div class="gal">
                 <div class="gal-pic">
                     <a href="images/galleries/2/04m.jpg" data-lightbox="rueckblick-1" data-title = "Gruppenarbeit">
@@ -258,17 +207,26 @@
                         <img src="images/galleries/2/12s.jpg" />
                     </a>
                 </div>
-            </div> <!-- /gal -->     
+            </div> 
+            --> 
+            <!-- /gal -->     
 
             <h3>Ein Tag im BLJ</h3>
             <span class="date-news">September 2016</span>
-		    <p>
-			    Der Start ins Basislehrjahr 2016/17 ist tipp topp gelungen. Die Lernenden haben sich bestens eingelebt, wie folgendes Video (39 MB) beweist.
-		    </p>
-		    <video src="Ein_Arbeitstag_im_041er-BLJ.mp4" controls>
+            <p>Das von den Lernenden gedrehte Video (39 MB) gibt einen tollen Einblick ins BLJ. </p>
+		    <video src="Ein_Arbeitstag_im_041er-BLJ.mp4" controls style="width:675px; height:auto;">
 			    Ihr Browser kann dieses Video nicht wiedergeben.
 		    </video>
 
+             <h3>Der Jahrgang 16/17</h3>
+            <span class="date-news">August 2016</span>
+            <p>Die Pioniere! 
+            </p>
+            <img src="images/gruppe_2016.jpg" alt="Bild der Lernenden 2016"/>
+
+
+
+            <!-- 
             <h3>Jump-In 2016</h3>
             <span class="date-news">August 2016</span>
             <p>
@@ -321,7 +279,9 @@
                         <img src="images/galleries/1/09s.jpg" />
                     </a>
                 </div>
-            </div> <!-- /gal -->        
+            </div> 
+                -->
+                <!-- /gal -->        
         </section> <!-- /news --> 
 
         <section id="projects">
@@ -364,6 +324,13 @@
                 <a href="https://www.also.ch/" target="_blank">
                     <img src="images/logo-also.jpg" alt="Logo ALSO" />
                 </a>
+                <a href="https://www.lukb.ch/" target="_blank">
+                    <img src="images/logo_lukb.jpg" alt="Logo Luzerner Kantonalbank" />
+                </a>
+                <a href="https://www.maxonmotor.ch/" target="_blank">
+                    <img src="images/logo_maxon.jpg" alt="Logo Maxon Motor" />
+                </a>
+
         </div>
     </footer>
     <div id="footer-nav">
