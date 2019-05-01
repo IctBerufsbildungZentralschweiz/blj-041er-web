@@ -17,22 +17,22 @@
     <!-- /colorbox -->
     <script src="http://code.jquery.com/jquery-latest.js"></script>
     <script>
-            /* jQuery-Code für smooth scrolling. 
-                Code von hier: https://paulund.co.uk/smooth-scroll-to-internal-links-with-jquery 
-                Siehe auch: http://onepager.de/ 
-            */
-            $(document).ready(function() {
-                $('a[href^="#"]').on('click',function (e) {
-                    e.preventDefault();
-                    var target = this.hash;
-                    var $target = $(target);
-                    $('html, body').stop().animate( {
-                        'scrollTop': $target.offset().top
-                    }, 900, 'swing', function () {
-                        window.location.hash = target;
-                    });
+        /* jQuery-Code für smooth scrolling. 
+            Code von hier: https://paulund.co.uk/smooth-scroll-to-internal-links-with-jquery 
+            Siehe auch: http://onepager.de/ 
+        */
+        $(document).ready(function() {
+            $('a[href^="#"]').on('click',function (e) {
+                e.preventDefault();
+                var target = this.hash;
+                var $target = $(target);
+                $('html, body').stop().animate( {
+                    'scrollTop': $target.offset().top
+                }, 900, 'swing', function () {
+                    window.location.hash = target;
                 });
             });
+        });
     </script>
 </head>
 <body>
@@ -80,137 +80,6 @@
             </p>
             <img src="images/gruppe_2017.jpg" alt="Bild der Lernenden 2017"/>
 
-            <!-- 
-            <div class="gal">
-                <div class="gal-pic">
-                    <a href="images/galleries/4/1m.jpg" data-lightbox="jumpin2017" data-title = "Rosenlauigletscher, Wellhorn">
-                        <img src="images/galleries/4/1s.jpg" />
-                    </a>
-                </div>
-                <div class="gal-pic">
-                    <a href="images/galleries/4/2m.jpg" data-lightbox="jumpin2017" data-title = "Hotel Rosenlaui">
-                        <img src="images/galleries/4/2s.jpg" />
-                    </a>
-                </div>
-                <div class="gal-pic">
-                    <a href="images/galleries/4/3m.jpg" data-lightbox="jumpin2017" data-title = "Gletscherschlucht Rosenlaui">
-                        <img src="images/galleries/4/3s.jpg" />
-                    </a>
-                </div>
-                <div class="gal-pic">
-                    <a href="images/galleries/4/4m.jpg" data-lightbox="jumpin2017" data-title = "Gletscherschlucht Rosenlaui">
-                        <img src="images/galleries/4/4s.jpg" />
-                    </a>
-                </div>
-                <div class="gal-pic">
-                    <a href="images/galleries/4/5m.jpg" data-lightbox="jumpin2017" data-title = "Wanderung zur Schwarzwaldalp">
-                        <img src="images/galleries/4/5s.jpg" />
-                    </a>
-                </div>
-                <div class="gal-pic">
-                    <a href="images/galleries/4/6m.jpg" data-lightbox="jumpin2017" data-title = "Grosse Scheidegg morgens um 7:30 Uhr">
-                        <img src="images/galleries/4/6s.jpg" />
-                    </a>
-                </div>
-                <div class="gal-pic">
-                    <a href="images/galleries/4/7m.jpg" data-lightbox="jumpin2017" data-title = "First Cliff Walk">
-                        <img src="images/galleries/4/7s.jpg" />
-                    </a>
-                </div>
-                <div class="gal-pic">
-                    <a href="images/galleries/4/8m.jpg" data-lightbox="jumpin2017" data-title = "First Cliff Walk">
-                        <img src="images/galleries/4/8s.jpg" />
-                    </a>
-                </div>
-                <div class="gal-pic">
-                    <a href="images/galleries/4/9m.jpg" data-lightbox="jumpin2017" data-title = "First Flyer, Vorbereitungen">
-                        <img src="images/galleries/4/9s.jpg" />
-                    </a>
-                </div>
-                <div class="gal-pic">
-                    <a href="images/galleries/4/10m.jpg" data-lightbox="jumpin2017" data-title = "Gruppe vor dem Wetterhorn">
-                        <img src="images/galleries/4/10s.jpg" />
-                    </a>
-                </div>
-            </div>
-            -->
-            <!-- /gal -->  
-           
-            <!-- 
-            <h3>Semesterende</h3>
-            <span class="date-news">Februar 2017</span>
-            <p>Bei einem Bier respektive einer Cola wurde am Freitag 03.02.2017 im <a href="http://www.oopsbar.ch/" target="_blank">Oops</a> in Luzern das erste Basislehrjahr-Semester beschlossen. 
-               Die Lernenden werden nun ihre Fähigkeiten im Lehrbetrieb unter Beweis stellen - und dies hochmotiviert -  bevor sie in ziemlich genau einem Jahr im 4. Semester in Adligenswil den tollen BLJ-Spirit noch einmal aufleben lassen. 
-            </p>
-            
-            <div class="gal">
-                <div class="gal-pic">
-                    <a href="images/galleries/3/01m.jpg" data-lightbox="evaluation-1" data-title = "Evaluation 1. Semester">
-                        <img src="images/galleries/3/01s.jpg" />
-                    </a>
-                </div>
-                <p><q>Das Basislehrjahr...</q></p>
-                <div class="gal-pic">
-                    <a href="images/galleries/3/02m.jpg" data-lightbox="evaluation-1" data-title = "Evaluation 1. Semester">
-                        <img src="images/galleries/3/02s.jpg" />
-                    </a>
-                </div>
-                <p><q>...hat mir viel Spass gemacht und ich werde es vermissen.</q>
-                </p>
-            </div>
-            --> 
-
-            <!-- 
-             <div class="gal">
-                <div class="gal-pic">
-                    <a href="images/galleries/2/04m.jpg" data-lightbox="rueckblick-1" data-title = "Gruppenarbeit">
-                        <img src="images/galleries/2/04s.jpg" />
-                    </a>
-                </div>
-                <div class="gal-pic">
-                    <a href="images/galleries/2/05m.jpg" data-lightbox="rueckblick-1" data-title = "Programmierer bei der Arbeit">
-                        <img src="images/galleries/2/05s.jpg" />
-                    </a>
-                </div>
-                <div class="gal-pic">
-                    <a href="images/galleries/2/06m.jpg" data-lightbox="rueckblick-1" data-title = "Vorbereitung auf den ÜK M304">
-                        <img src="images/galleries/2/06s.jpg" />
-                    </a>
-                </div>
-                <div class="gal-pic">
-                    <a href="images/galleries/2/07m.jpg" data-lightbox="rueckblick-1" data-title = "Nicht vergessen: Zeitaufwand verbuchen!">
-                        <img src="images/galleries/2/07s.jpg" />
-                    </a>
-                </div>
-                <div class="gal-pic">
-                    <a href="images/galleries/2/08m.jpg" data-lightbox="rueckblick-1" data-title = "Mitte in der Projektarbeit">
-                        <img src="images/galleries/2/08s.jpg" />
-                    </a>
-                </div>
-                <div class="gal-pic">
-                    <a href="images/galleries/2/09m.jpg" data-lightbox="rueckblick-1" data-title = "Das BLJ-Team">
-                        <img src="images/galleries/2/09s.jpg" />
-                    </a>
-                </div>
-                <div class="gal-pic">
-                    <a href="images/galleries/2/10m.jpg" data-lightbox="rueckblick-1" data-title = "Workshop zum Thema IT-Support">
-                        <img src="images/galleries/2/10s.jpg" />
-                    </a>
-                </div>
-               <div class="gal-pic">
-                    <a href="images/galleries/2/11m.jpg" data-lightbox="rueckblick-1" data-title = "Präsentation">
-                        <img src="images/galleries/2/11s.jpg" />
-                    </a>
-                </div>
-                <div class="gal-pic">
-                    <a href="images/galleries/2/12m.jpg" data-lightbox="rueckblick-1" data-title = "Der legendäre Backofen">
-                        <img src="images/galleries/2/12s.jpg" />
-                    </a>
-                </div>
-            </div> 
-            --> 
-            <!-- /gal -->     
-
             <h3>Ein Tag im BLJ</h3>
             <span class="date-news">September 2016</span>
             <p>Das von den Lernenden gedrehte Video (39 MB) gibt einen tollen Einblick ins BLJ. </p>
@@ -223,8 +92,6 @@
             <p>Die Pioniere! 
             </p>
             <img src="images/gruppe_2016.jpg" alt="Bild der Lernenden 2016"/>
-
-
 
             <!-- 
             <h3>Jump-In 2016</h3>
@@ -258,30 +125,7 @@
                         <img src="images/galleries/1/05s.jpg" />
                     </a>
                 </div>
-
-                <div class="gal-pic">
-                    <a href="images/galleries/1/06m.jpg" data-lightbox="jumpin2016" data-title = "Engstlensee">
-                        <img src="images/galleries/1/06s.jpg" />
-                    </a>
-                </div>
-                <div class="gal-pic">
-                    <a href="images/galleries/1/07m.jpg" data-lightbox="jumpin2016" data-title = "Die Komäxler auf dem Devilbike">
-                        <img src="images/galleries/1/07s.jpg" />
-                    </a>
-                </div>
-                <div class="gal-pic">
-                    <a href="images/galleries/1/08m.jpg" data-lightbox="jumpin2016" data-title = "Im EWL-Kraftwerk Obermatt">
-                        <img src="images/galleries/1/08s.jpg" />
-                    </a>
-                </div>
-                <div class="gal-pic">
-                    <a href="images/galleries/1/09m.jpg" data-lightbox="jumpin2016" data-title = "Das BLJ-Team">
-                        <img src="images/galleries/1/09s.jpg" />
-                    </a>
-                </div>
-            </div> 
-                -->
-                <!-- /gal -->        
+            </div> -->     
         </section> <!-- /news --> 
 
         <section id="projects">
@@ -330,7 +174,9 @@
                 <a href="https://www.maxonmotor.ch/" target="_blank">
                     <img src="images/logo_maxon.jpg" alt="Logo Maxon Motor" />
                 </a>
-
+                <a href="https://www.suva.ch/" target="_blank">
+                    <img src="images/logo_suva.png" alt="Logo SUVA" />
+                </a>
         </div>
     </footer>
     <div id="footer-nav">
