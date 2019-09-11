@@ -67,6 +67,12 @@
 		</p>
         <section id="news">
             <h2>News</h2>
+       
+            <h3>Der Jahrgang 19/20</h3>
+            <span class="date-news">August 2019</span>
+            <p>Wir wachsen! 14 Lernende beginnen das Basislehrjahr mit dem Jump-In im Maderanertal.
+            </p>
+            <img src="images/blj-ll-201920.jpg" alt="Bild der Lernenden 2018"/>
 
             <h3>Der Jahrgang 18/19</h3>
             <span class="date-news">August 2018</span>
