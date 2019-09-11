@@ -63,7 +63,7 @@
             Im Unterschied zum klassischen Basislehrjahr, das die ersten beiden Semester umfasst, erfolgt beim Modell «Splitting» von ICT Berufsbildung Zentralschweiz die Ausbildung der Lernenden im ersten Semester sowie im vierten Semester. Das heisst, das Basislehrjahr wird durch einen einjährigen Einsatz im Lehrbetrieb unterbrochen, was einen optimalen Praxistransfer ermöglicht. Von diesem neuen und innovativen Modell verspricht sich ICT-Berufsbildung Zentralschweiz eine fundierte Grundausbildung, die besser auf die Bedürfnisse der Lehrbetriebe abgestimmt ist.
         </p>
         <p>
-			<a href="http://www.ict-bz.ch/blj" target="_blank"><i class="fa fa-arrow-circle-right">&nbsp;</i>mehr zum Basislehrjahr</a>
+			<a href="http://www.ict-bz.ch/basislehrjahr" target="_blank"><i class="fa fa-arrow-circle-right">&nbsp;</i>mehr zum Basislehrjahr</a>
 		</p>
         <section id="news">
             <h2>News</h2>
