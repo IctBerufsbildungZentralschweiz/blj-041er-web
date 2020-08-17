@@ -54,7 +54,7 @@ a:hover {
     line-height:normal;
     background-color: aliceblue;
     padding:5px;
-    margin: 0px 0px 5px 20px;
+    margin: 0px 15px 5px 15px;
 }
 
 .answer {
@@ -357,6 +357,7 @@ footer #partner a {
 
     .questions {
         width: 100%;
+       
     }
 
 

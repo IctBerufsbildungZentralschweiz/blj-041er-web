@@ -68,6 +68,14 @@
                 <section id="news">
                     <h2>News</h2>
                     
+                    <h3>Lehrstart 2020/21</h3>
+                    <span class="date-news">August 2020</span>
+                    <p>
+                        19 Lernende starten am 12.08.2020 das Basislehrjahr. Willkommen bei ICT-BZ.<br />
+                        Und ein SPECIAL WELCOME an Kilian Bürli, unseren neuen BLJ-Coach.
+                    </p>
+                    <img src="images/blj-ll-202021.jpg" alt="Bild der Lernenden 2020"/>
+
                     <h3>Corona-Lockdown</h3>
                     <span class="date-news">April 2020</span>
                     <p>
@@ -228,7 +236,7 @@
                     <span class="date-news">August 2019</span>
                     <p>Wir wachsen! 14 Lernende beginnen das Basislehrjahr mit dem Jump-In im Maderanertal.
                     </p>
-                    <img src="images/blj-ll-201920.jpg" alt="Bild der Lernenden 2018"/>
+                    <img src="images/blj-ll-201920.jpg" alt="Bild der Lernenden 2019"/>
 
                     <h3>Der Jahrgang 18/19</h3>
                     <span class="date-news">August 2018</span>
@@ -303,6 +311,13 @@
                         </a>
                         <a href="https://www.suva.ch/" target="_blank">
                             <img src="images/logo_suva.png" alt="Logo SUVA" />
+                        </a>
+                        <a href="https://www.hslu.ch/" target="_blank">
+                            <img src="images/logo_hslu.jpg" alt="Logo HSLU" />
+                        </a>
+                        <a href="https://www.sage.com/" target="_blank">
+                        <a href="https://www.sage.com/" target="_blank">
+                            <img src="images/logo_sage.jpg" alt="Logo Sage" />
                         </a>
                 </div>
                 </footer>
