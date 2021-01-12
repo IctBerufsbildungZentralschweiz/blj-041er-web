@@ -68,6 +68,14 @@
                 <section id="news">
                     <h2>News</h2>
                     
+                    <h3>Danke Roger!</h3>
+                    <span class="date-news">August 2020</span>
+                    <p>Die Lernenden vom IT-BLJ sowie vom neuen MMA-BLJ bedanken sich im Video (69 MB) bei Roger Erni, der heute 28.08.2020 seinen letzten Arbeitstag bei ICT-BZ 
+                        hatte. Danke Roger! Und toi toi für deine neue Herausforderung im Krienser Stadtrat!</p>
+		            <video src="blj-danke-roger.mp4" controls style="width:675px; height:auto;">
+			            Ihr Browser kann dieses Video nicht wiedergeben.
+		            </video>
+
                     <h3>Lehrstart 2020/21</h3>
                     <span class="date-news">August 2020</span>
                     <p>
