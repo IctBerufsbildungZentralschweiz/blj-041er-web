@@ -68,6 +68,20 @@
                 <section id="news">
                     <h2>News</h2>
                     
+                    <h3>Wir lassen 2 Wetterballone steigen!</h3>
+                    <span class="date-news">Juli 2021</span>
+                    <p>Zum Abschluss des 4. Semesters lassen zwei Teams je einen Wetterballon steigen. 
+                        Verfolge den aktuellen Stand der Arbeiten, indem du den Blog der Teams besuchst: 
+                         </p> <ul>
+                            <li>
+                                Team <a href="https://loonup.041er-blj.ch">loonup</a> 
+                            </li>
+                            <li>
+                                Team <a href="https://flyneat.041er-blj.ch">flyneat</a>
+                            </li>
+                        </ul>
+                  
+		
                     <h3>Danke Roger!</h3>
                     <span class="date-news">August 2020</span>
                     <p>Die Lernenden vom IT-BLJ sowie vom neuen MMA-BLJ bedanken sich im Video (69 MB) bei Roger Erni, der heute 28.08.2020 seinen letzten Arbeitstag bei ICT-BZ 

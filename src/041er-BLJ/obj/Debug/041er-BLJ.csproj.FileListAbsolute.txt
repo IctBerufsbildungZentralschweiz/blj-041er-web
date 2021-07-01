@@ -109,3 +109,4 @@ U:\dev\blj-041er-web\src\041er-BLJ\bin\roslyn\VBCSCompiler.exe.config
 U:\dev\blj-041er-web\src\041er-BLJ\bin\041er-BLJ.dll.config
 U:\dev\blj-041er-web\src\041er-BLJ\bin\041er-BLJ.dll
 U:\dev\blj-041er-web\src\041er-BLJ\bin\041er-BLJ.pdb
+H:\dev\blj-041er-web\src\041er-BLJ\obj\Debug\041er-BLJ.csproj.CoreCompileInputs.cache
