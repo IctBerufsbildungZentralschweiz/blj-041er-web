@@ -24,6 +24,7 @@
     <UseGlobalApplicationHostFile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -108,7 +109,9 @@
     <Content Include="images\galleries\2\12m.jpg" />
     <Content Include="images\galleries\2\12s.jpg" />
     <Content Include="images\intro.png" />
+    <Content Include="images\ll-2021-22.jpg" />
     <Content Include="images\logo-also.jpg" />
+    <Content Include="images\logo-luits.png" />
     <Content Include="images\logo_calida.png" />
     <Content Include="images\logo_css.png" />
     <Content Include="images\logo_ict-bz.png" />

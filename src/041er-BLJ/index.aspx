@@ -68,6 +68,21 @@
                 <section id="news">
                     <h2>News</h2>
                     
+                    
+                    <h3>Der Jahrgang 21/22</h3>
+                    <span class="date-news">August 2021</span>
+                    <p>Wie die Zeit vergeht. Kaum wurde das Basislehjahr von ICT-Berufsbildung Zentralschweiz ins Leben gerufen, 
+                        begrüssen wir schon den 6. Jahrgang. <br>17 Lernende starteten bei uns am 11.08.2021 ins Basislehrjahr 
+                        Informatik:  
+                    </p>
+                    <ul>
+                        <li>13 Applikationsentwickler/-innen</li>
+                        <li>2 Plattformentwickler/-innen</li> 
+                        <li>2 ICT-Fachfrauen</li>
+                    </ul>
+                    <p><strong>Herzlich Willkommen</strong> in Adligenswil liebe Lernende!</p>
+                    <img src="images/ll-2021-22.jpg" alt="Bild der Lernenden 2020"/>
+                    
                     <h3>Wir lassen 2 Wetterballone steigen!</h3>
                     <span class="date-news">Juli 2021</span>
                     <p>Zum Abschluss des 4. Semesters lassen zwei Teams je einen Wetterballon steigen. 
@@ -76,7 +91,7 @@
                             <li>
                                 Team <a href="https://loonup.041er-blj.ch">loonup</a> 
                             </li>
-                            <li>
+                            <li>    
                                 Team <a href="https://flyneat.041er-blj.ch">flyneat</a>
                             </li>
                         </ul>
@@ -308,7 +323,7 @@
                 <div id="partner">
                     <h2>Kooperationspartner</h2>
                         <a href="http://www.css.ch/" target="_blank">
-                            <img src="images/logo_css.png" alt="Logo CSS Versicherung" />
+                            <img src="images/logo_css.jpg" alt="Logo CSS Versicherung" />
                         </a>
                         <a href="http://www.komaxgroup.com/" target="_blank">
                             <img src="images/logo_komax.png" alt="Logo Komax Wire" />
@@ -337,9 +352,12 @@
                         <a href="https://www.hslu.ch/" target="_blank">
                             <img src="images/logo_hslu.jpg" alt="Logo HSLU" />
                         </a>
-                        <a href="https://www.sage.com/" target="_blank">
+                       
                         <a href="https://www.sage.com/" target="_blank">
                             <img src="images/logo_sage.jpg" alt="Logo Sage" />
+                        </a>
+                         <a href="https://lu-its.ch/" target="_blank">
+                            <img src="images/logo-luits.png" alt="Logo Luzerner IT Solution" />
                         </a>
                 </div>
                 </footer>
