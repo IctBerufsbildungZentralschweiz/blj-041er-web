@@ -68,6 +68,19 @@
                 <section id="news">
                     <h2>News</h2>
                     
+
+                    <h3>Der Jahrgang 22/23</h3>
+                    <span class="date-news">August 2022</span>
+                    <p>Am 17. August starteten 22 Lernende Informatiker das Basislehrjahr by ICT-BZ.
+                    </p>
+                    <ul>
+                        <li>16 Applikationsentwickler/-innen</li>
+                        <li>3 Plattformentwickler</li> 
+                        <li>3 ICT-Fachmänner</li>
+                    </ul>
+                    <p><strong>Herzlich Willkommen!</strong> </p>
+                    <img src="images/InfJump_2022.jpg" alt="Bild der Lernenden 2022"/>
+                    
                     
                     <h3>Der Jahrgang 21/22</h3>
                     <span class="date-news">August 2021</span>
@@ -81,7 +94,7 @@
                         <li>2 ICT-Fachfrauen</li>
                     </ul>
                     <p><strong>Herzlich Willkommen</strong> in Adligenswil liebe Lernende!</p>
-                    <img src="images/ll-2021-22.jpg" alt="Bild der Lernenden 2020"/>
+                    <img src="images/ll-2021-22.jpg" alt="Bild der Lernenden 2021"/>
                     
                     <h3>Wir lassen 2 Wetterballone steigen!</h3>
                     <span class="date-news">Juli 2021</span>
@@ -352,9 +365,8 @@
                         <a href="https://www.hslu.ch/" target="_blank">
                             <img src="images/logo_hslu.jpg" alt="Logo HSLU" />
                         </a>
-                       
-                        <a href="https://www.sage.com/" target="_blank">
-                            <img src="images/logo_sage.jpg" alt="Logo Sage" />
+                        <a href="https://www.trisa.ch/" target="_blank">
+                            <img src="images/logo-trisa.png" alt="Logo Trisa" />
                         </a>
                          <a href="https://lu-its.ch/" target="_blank">
                             <img src="images/logo-luits.png" alt="Logo Luzerner IT Solution" />
