@@ -365,6 +365,9 @@
                         <a href="https://www.hslu.ch/" target="_blank">
                             <img src="images/logo_hslu.jpg" alt="Logo HSLU" />
                         </a>
+                        <a href="https://www.concordia.ch/" target="_blank">
+                            <img src="images/logo-concordia.png" alt="Logo Concordia" />
+                        </a>
                         <a href="https://www.trisa.ch/" target="_blank">
                             <img src="images/logo-trisa.png" alt="Logo Trisa" />
                         </a>
