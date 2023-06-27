@@ -95,21 +95,7 @@
                     </ul>
                     <p><strong>Herzlich Willkommen</strong> in Adligenswil liebe Lernende!</p>
                     <img src="images/ll-2021-22.jpg" alt="Bild der Lernenden 2021"/>
-                    
-                    <h3>Wir lassen 2 Wetterballone steigen!</h3>
-                    <span class="date-news">Juli 2021</span>
-                    <p>Zum Abschluss des 4. Semesters lassen zwei Teams je einen Wetterballon steigen. 
-                        Verfolge den aktuellen Stand der Arbeiten, indem du den Blog der Teams besuchst: 
-                         </p> <ul>
-                            <li>
-                                Team <a href="https://loonup.041er-blj.ch">loonup</a> 
-                            </li>
-                            <li>    
-                                Team <a href="https://flyneat.041er-blj.ch">flyneat</a>
-                            </li>
-                        </ul>
-                  
-		
+
                     <h3>Danke Roger!</h3>
                     <span class="date-news">August 2020</span>
                     <p>Die Lernenden vom IT-BLJ sowie vom neuen MMA-BLJ bedanken sich im Video (69 MB) bei Roger Erni, der heute 28.08.2020 seinen letzten Arbeitstag bei ICT-BZ 
@@ -316,6 +302,28 @@
                 <section id="projects">
                     <h2>Projekte</h2>
                     <asp:PlaceHolder ID="projectsPlaceholder" runat="server"></asp:PlaceHolder>
+                    
+                    <h2>Wetterballon Projekte</h2>
+                                                           
+                    <h3>2022 - Team Interstellar</h3>
+                    <a href="https://wl58www401.webland.ch/mma/20-24/videos/Wetterballon_Making_Of.mp4" target="_blank">Making of</a> | 
+                    <a href="https://wl58www401.webland.ch/mma/20-24/videos/interstellar_ballonflug.mp4" target="_blank">Flug</a>
+                    
+                    <h3>2021 - Team Flyneat</h3>
+                    <a href="https://www.youtube.com/watch?v=GNqfas7dles" target="_blank">Making of</a> | 
+                    <a href="https://www.youtube.com/watch?v=Ysw0RNh7PMU" target="_blank">Flug</a>
+
+                    <h3>2021 - Team Loonup</h3>
+                    <a href="https://www.youtube.com/watch?v=RRAffzlgZrE" target="_blank">Making of</a> | 
+                    <a href="https://www.youtube.com/watch?v=iPu7oug8RfA" target="_blank">Flug</a>
+
+                    <h3>2020 - Team Sputnik 2</h3>
+                    <a href="https://www.youtube.com/watch?v=49O0TIXJl6o" target="_blank">Making of</a> | 
+                    <a href="https://www.youtube.com/watch?v=9DX1uslHfGg" target="_blank">Flug</a>
+
+                    <h3>2019 - Team Driftlon</h3>
+                    <a href="https://www.041er-blj.ch/driftlon/assets/driftlon.mp4" target="_blank">Flug</a>
+
                 </section> <!-- /projects -->
 	        </main>
             <footer>
