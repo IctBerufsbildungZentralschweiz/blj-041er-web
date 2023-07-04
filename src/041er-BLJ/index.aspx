@@ -285,14 +285,14 @@
                     <p>Die "neuen" Lernenden :)
                     </p>
                     <img src="images/gruppe_2017.jpg" alt="Bild der Lernenden 2017"/>
-
-                    <h3>Ein Tag im BLJ</h3>
-                    <span class="date-news">September 2016</span>
-                    <p>Das von den Lernenden gedrehte Video (39 MB) gibt einen tollen Einblick ins BLJ. </p>
-		            <video src="Ein_Arbeitstag_im_041er-BLJ.mp4" controls style="width:675px; height:auto;">
-			            Ihr Browser kann dieses Video nicht wiedergeben.
-		            </video>
-
+                    <!-- 
+                        <h3>Ein Tag im BLJ</h3>
+                        <span class="date-news">September 2016</span>
+                        <p>Das von den Lernenden gedrehte Video (39 MB) gibt einen tollen Einblick ins BLJ. </p>
+		                <video src="Ein_Arbeitstag_im_041er-BLJ.mp4" controls style="width:675px; height:auto;">
+			                Ihr Browser kann dieses Video nicht wiedergeben.
+		                </video>
+                    -->
                     <h3>Der Jahrgang 16/17</h3>
                     <span class="date-news">August 2016</span>
                     <p>Die Pioniere! 
@@ -308,21 +308,27 @@
                     <h3>2022 - Team Interstellar</h3>
                     <a href="https://wl58www401.webland.ch/mma/20-24/videos/Wetterballon_Making_Of.mp4" target="_blank">Making of</a> | 
                     <a href="https://wl58www401.webland.ch/mma/20-24/videos/interstellar_ballonflug.mp4" target="_blank">Flug</a>
+
                     
                     <h3>2021 - Team Flyneat</h3>
                     <a href="https://www.youtube.com/watch?v=GNqfas7dles" target="_blank">Making of</a> | 
-                    <a href="https://www.youtube.com/watch?v=Ysw0RNh7PMU" target="_blank">Flug</a>
+                    <a href="https://www.youtube.com/watch?v=Ysw0RNh7PMU" target="_blank">Flug</a> | 
+                    <a href="https://blj-weatherballoon.web.app/" target="_blank">Blog</a>    
 
                     <h3>2021 - Team Loonup</h3>
                     <a href="https://www.youtube.com/watch?v=RRAffzlgZrE" target="_blank">Making of</a> | 
-                    <a href="https://www.youtube.com/watch?v=iPu7oug8RfA" target="_blank">Flug</a>
+                    <a href="https://www.youtube.com/watch?v=iPu7oug8RfA" target="_blank">Flug</a> | 
+                    <a href="https://balloon.fioretti.info/" target="_blank">Blog</a>              
 
                     <h3>2020 - Team Sputnik 2</h3>
                     <a href="https://www.youtube.com/watch?v=49O0TIXJl6o" target="_blank">Making of</a> | 
-                    <a href="https://www.youtube.com/watch?v=9DX1uslHfGg" target="_blank">Flug</a>
-
+                    <a href="https://www.youtube.com/watch?v=9DX1uslHfGg" target="_blank">Flug</a> | 
+                    <a href="http://sputnik2.041er-blj.ch/#/home" target="_blank">Blog</a>  
+             
                     <h3>2019 - Team Driftlon</h3>
-                    <a href="https://www.041er-blj.ch/driftlon/assets/driftlon.mp4" target="_blank">Flug</a>
+                    <a href="https://www.041er-blj.ch/driftlon/assets/driftlon.mp4" target="_blank">Flug</a> | 
+                    <a href="http://driftlon.041er-blj.ch" target="_blank">Blog</a> 
+                    
 
                 </section> <!-- /projects -->
 	        </main>
