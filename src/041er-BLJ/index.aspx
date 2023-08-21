@@ -304,6 +304,11 @@
                     <asp:PlaceHolder ID="projectsPlaceholder" runat="server"></asp:PlaceHolder>
                     
                     <h2>Wetterballon Projekte</h2>
+
+                    <h3>2023 - Team Sussinity Voyager</h3>
+                    <a href="https://wl58www401.webland.ch/sussinity/Wetterballon_2023.mp4" target="_blank">Video (200 MB)</a> | 
+                    <a href="https://wl58www401.webland.ch/sussinity/sussinity.html" target="_blank">Statistiken</a>
+
                                                            
                     <h3>2022 - Team Interstellar</h3>
                     <a href="https://wl58www401.webland.ch/mma/20-24/videos/Wetterballon_Making_Of.mp4" target="_blank">Making of</a> | 
@@ -347,8 +352,10 @@
                         <i class="fa fa-globe" aria-hidden="true">&nbsp;<a href="http://www.ict-bz.ch" target="_blank">http://www.ict-bz.ch</a></i> 
                     </div>
                 </div>
-                <div id="partner">
-                    <h2>Kooperationspartner</h2>
+                    <div id="partner">
+
+                        <h2>Kooperationspartner</h2>
+
                         <a href="http://www.css.ch/" target="_blank">
                             <img src="images/logo_css.jpg" alt="Logo CSS Versicherung" />
                         </a>
@@ -388,7 +395,30 @@
                          <a href="https://lu-its.ch/" target="_blank">
                             <img src="images/logo-luits.png" alt="Logo Luzerner IT Solution" />
                         </a>
-                </div>
+                        <a href="https://parcom.ch/" target="_blank">
+                            <img src="images/logo_parcom.jpg" alt="Logo Parcom" />
+                        </a>
+                        <a href="https://www.creanet.ch/home" target="_blank">
+                            <img src="images/logo_creanet.jpg" alt="Logo Creanet" />
+                        </a>
+                        <a href="https://www.ajila.com/" target="_blank">
+                            <img src="images/logo_ajila.png" alt="Logo Ajila" />
+                        </a>
+                        <a href="https://www.ckw.ch/" target="_blank">
+                            <img src="images/logo_ckw.jpg" alt="Logo CKW" />
+                        </a>
+                        <a href="https://www.xappido.com/" target="_blank">
+                            <img src="images/logo_xappido.png" alt="Logo xappido" />
+                        </a>
+                        <a href="https://www.schurter.com/" target="_blank">
+                            <img src="images/logo_schurter.png" alt="Logo Schurter" />
+                        </a>
+                        <a href="https://informatik.lu.ch/" target="_blank">
+                            <img src="images/logo_diin.jpg" alt="Logo DIIN" />
+                        </a>
+
+                        
+                    </div>
                 </footer>
             <div id="footer-nav">
                 <a href="#wrapper"><i class="fa fa-arrow-circle-up" aria-hidden="true"></i></a>
