@@ -67,7 +67,22 @@
 		        </p>
                 <section id="news">
                     <h2>News</h2>
-                    
+
+                    <h3>Der Jahrgang 23/24</h3>
+                    <span class="date-news">August 2023</span>
+                    <p>
+                        Rekord! Wir begrüssen heuer: 
+                    </p>
+                    <ul>
+                        <li>20 Applikationsentwickler/-innen</li>
+                        <li>6 Plattformentwickler/-innen</li> 
+                        <li>1 ICT-Fachfrau</li>
+                    </ul>
+                    <p>
+                    <img src="images/23-27-BLJ-PLE.JPG" alt="Bild der Lernenden 2023"/>
+                    <img src="images/23-27-BLJ-APP.JPG" alt="Bild der Lernenden 2023"/>
+                        </p>
+
 
                     <h3>Der Jahrgang 22/23</h3>
                     <span class="date-news">August 2022</span>
