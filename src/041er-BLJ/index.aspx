@@ -10,7 +10,7 @@
     <meta name="copyright" content="ICT-Berufsbildung Zentralschweiz All Rights Reserved" />
 
     <link href="css/site.css" rel="stylesheet" />
-    <link href="fonts/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="assets/fonts/css/font-awesome.min.css" rel="stylesheet" />
     <!-- colorbox -->
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css" />
     <script src="//cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/js/lightbox-plus-jquery.min.js"></script>
@@ -326,8 +326,8 @@
 
                                                            
                     <h3>2022 - Team Interstellar</h3>
-                    <a href="https://wl58www401.webland.ch/mma/20-24/videos/Wetterballon_Making_Of.mp4" target="_blank">Making of</a> | 
-                    <a href="https://wl58www401.webland.ch/mma/20-24/videos/interstellar_ballonflug.mp4" target="_blank">Flug</a>
+                    <a href="assets/videos/interstellar_making_of.mp4" target="_blank">Making of (87 MB)</a> | 
+                    <a href="assets/videos/interstellar_flugtag.mp4" target="_blank">Flug (124 MB)</a>
 
                     
                     <h3>2021 - Team Flyneat</h3>

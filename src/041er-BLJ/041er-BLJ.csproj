@@ -115,14 +115,14 @@
     <Content Include="assets\images\scrum-lernapp_s.jpg" />
     <Content Include="assets\images\xxx.jpg" />
     <Content Include="assets\videos\blj-danke-roger.mp4" />
-    <Content Include="fonts\css\font-awesome.css" />
-    <Content Include="fonts\css\font-awesome.min.css" />
-    <Content Include="fonts\fonts\fontawesome-webfont.svg" />
+    <Content Include="assets\fonts\css\font-awesome.css" />
+    <Content Include="assets\fonts\css\font-awesome.min.css" />
+    <Content Include="assets\fonts\fonts\fontawesome-webfont.svg" />
     <Content Include="packages.config" />
-    <Content Include="fonts\fonts\fontawesome-webfont.eot" />
-    <Content Include="fonts\fonts\fontawesome-webfont.ttf" />
-    <Content Include="fonts\fonts\fontawesome-webfont.woff" />
-    <Content Include="fonts\fonts\FontAwesome.otf" />
+    <Content Include="assets\fonts\fonts\fontawesome-webfont.eot" />
+    <Content Include="assets\fonts\fonts\fontawesome-webfont.ttf" />
+    <Content Include="assets\fonts\fonts\fontawesome-webfont.woff" />
+    <Content Include="assets\fonts\fonts\FontAwesome.otf" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
     </None>
