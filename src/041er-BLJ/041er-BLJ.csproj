@@ -65,81 +65,75 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\images\23-27-BLJ-APP.JPG" />
+    <Content Include="assets\images\23-27-BLJ-PLE.JPG" />
+    <Content Include="assets\images\blj-ll-201819.jpg" />
+    <Content Include="assets\images\blj-ll-201920.jpg" />
+    <Content Include="assets\images\blj-ll-202021.jpg" />
+    <Content Include="assets\images\brainstorm-lernapp.jpg" />
+    <Content Include="assets\images\brainstorm-lernapp_s.jpg" />
+    <Content Include="assets\images\collage_2018.jpg" />
+    <Content Include="assets\images\collage_2018_s.jpg" />
+    <Content Include="assets\images\db-lernapp.jpg" />
+    <Content Include="assets\images\db-lernapp_s.jpg" />
+    <Content Include="assets\images\gruppe_2016.jpg" />
+    <Content Include="assets\images\gruppe_2017.jpg" />
+    <Content Include="assets\images\homeoffice\01.jpg" />
+    <Content Include="assets\images\homeoffice\01_s.jpg" />
+    <Content Include="assets\images\homeoffice\02.jpg" />
+    <Content Include="assets\images\homeoffice\02_s.jpg" />
+    <Content Include="assets\images\homeoffice\03.jpg" />
+    <Content Include="assets\images\homeoffice\03_s.jpg" />
+    <Content Include="assets\images\homeoffice\04.jpg" />
+    <Content Include="assets\images\homeoffice\04_s.jpg" />
+    <Content Include="assets\images\InfJump_2022.jpg" />
+    <Content Include="assets\images\intro.png" />
+    <Content Include="assets\images\ll-2021-22.jpg" />
+    <Content Include="assets\images\logo-also.jpg" />
+    <Content Include="assets\images\logo-luits.png" />
+    <Content Include="assets\images\logo-trisa.png" />
+    <Content Include="assets\images\logo_ajila.png" />
+    <Content Include="assets\images\logo_calida.png" />
+    <Content Include="assets\images\logo_ckw.jpg" />
+    <Content Include="assets\images\logo_concordia.png" />
+    <Content Include="assets\images\logo_css.jpg" />
+    <Content Include="assets\images\logo_diin.jpg" />
+    <Content Include="assets\images\logo_edp.jpg" />
+    <Content Include="assets\images\logo_hslu.jpg" />
+    <Content Include="assets\images\logo_ict-bz.png" />
+    <Content Include="assets\images\logo_ict-bz_small.png" />
+    <Content Include="assets\images\logo_komax.png" />
+    <Content Include="assets\images\logo_lukb.jpg" />
+    <Content Include="assets\images\logo_maxon.jpg" />
+    <Content Include="assets\images\logo_parcom.jpg" />
+    <Content Include="assets\images\logo_phlu.png" />
+    <Content Include="assets\images\logo_sage.jpg" />
+    <Content Include="assets\images\logo_schurter.png" />
+    <Content Include="assets\images\logo_suva.png" />
+    <Content Include="assets\images\logo_xappido.png" />
+    <Content Include="assets\images\scrum-lernapp.jpg" />
+    <Content Include="assets\images\scrum-lernapp_s.jpg" />
+    <Content Include="assets\images\xxx.jpg" />
+    <Content Include="assets\videos\blj-danke-roger.mp4" />
     <Content Include="fonts\css\font-awesome.css" />
     <Content Include="fonts\css\font-awesome.min.css" />
     <Content Include="fonts\fonts\fontawesome-webfont.svg" />
-    <Content Include="images\galleries\1\01m.jpg" />
-    <Content Include="images\galleries\1\01s.jpg" />
-    <Content Include="images\galleries\1\02m.jpg" />
-    <Content Include="images\galleries\1\02s.jpg" />
-    <Content Include="images\galleries\1\03m.jpg" />
-    <Content Include="images\galleries\1\03s.jpg" />
-    <Content Include="images\galleries\1\04m.jpg" />
-    <Content Include="images\galleries\1\04s.jpg" />
-    <Content Include="images\galleries\1\05m.jpg" />
-    <Content Include="images\galleries\1\05s.jpg" />
-    <Content Include="images\galleries\1\06m.jpg" />
-    <Content Include="images\galleries\1\06s.jpg" />
-    <Content Include="images\galleries\1\07m.jpg" />
-    <Content Include="images\galleries\1\07s.jpg" />
-    <Content Include="images\galleries\1\08m.jpg" />
-    <Content Include="images\galleries\1\08s.jpg" />
-    <Content Include="images\galleries\1\09m.jpg" />
-    <Content Include="images\galleries\1\09s.jpg" />
-    <Content Include="images\galleries\2\01m.jpg" />
-    <Content Include="images\galleries\2\01s.jpg" />
-    <Content Include="images\galleries\2\02m.jpg" />
-    <Content Include="images\galleries\2\02s.jpg" />
-    <Content Include="images\galleries\2\03m.jpg" />
-    <Content Include="images\galleries\2\03s.jpg" />
-    <Content Include="images\galleries\2\04m.jpg" />
-    <Content Include="images\galleries\2\04s.jpg" />
-    <Content Include="images\galleries\2\05m.jpg" />
-    <Content Include="images\galleries\2\05s.jpg" />
-    <Content Include="images\galleries\2\06m.jpg" />
-    <Content Include="images\galleries\2\06s.jpg" />
-    <Content Include="images\galleries\2\07m.jpg" />
-    <Content Include="images\galleries\2\07s.jpg" />
-    <Content Include="images\galleries\2\08m.jpg" />
-    <Content Include="images\galleries\2\08s.jpg" />
-    <Content Include="images\galleries\2\09m.jpg" />
-    <Content Include="images\galleries\2\09s.jpg" />
-    <Content Include="images\galleries\2\10m.jpg" />
-    <Content Include="images\galleries\2\10s.jpg" />
-    <Content Include="images\galleries\2\11m.jpg" />
-    <Content Include="images\galleries\2\11s.jpg" />
-    <Content Include="images\galleries\2\12m.jpg" />
-    <Content Include="images\galleries\2\12s.jpg" />
-    <Content Include="images\intro.png" />
-    <Content Include="images\ll-2021-22.jpg" />
-    <Content Include="images\logo-also.jpg" />
-    <Content Include="images\logo-luits.png" />
-    <Content Include="images\logo_calida.png" />
-    <Content Include="images\logo_css.png" />
-    <Content Include="images\logo_ict-bz.png" />
-    <Content Include="images\logo_ict-bz_small.png" />
-    <Content Include="images\logo_komax.png" />
-    <Content Include="images\logo_lukb.jpg" />
-    <Content Include="images\logo_maxon.jpg" />
-    <Content Include="images\logo_phlu.png" />
-    <Content Include="images\xxx.jpg" />
     <Content Include="packages.config" />
     <Content Include="fonts\fonts\fontawesome-webfont.eot" />
     <Content Include="fonts\fonts\fontawesome-webfont.ttf" />
     <Content Include="fonts\fonts\fontawesome-webfont.woff" />
     <Content Include="fonts\fonts\FontAwesome.otf" />
-    <None Include="Web.Debug.config">
-      <DependentUpon>Web.config</DependentUpon>
+    <None Include="web.Debug.config">
+      <DependentUpon>web.config</DependentUpon>
     </None>
-    <None Include="Web.Release.config">
-      <DependentUpon>Web.config</DependentUpon>
+    <None Include="web.Release.config">
+      <DependentUpon>web.config</DependentUpon>
     </None>
   </ItemGroup>
   <ItemGroup>
     <Content Include="css\site.css" />
-    <Content Include="Ein_Arbeitstag_im_041er-BLJ.mp4" />
     <Content Include="index.aspx" />
-    <Content Include="Web.config">
+    <Content Include="web.config">
       <SubType>Designer</SubType>
     </Content>
   </ItemGroup>
@@ -156,8 +150,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="images\galleries\3\" />
-    <Folder Include="images\galleries\4\" />
     <Folder Include="js\" />
   </ItemGroup>
   <PropertyGroup>

@@ -40,7 +40,7 @@
         <form id="form1" runat="server">
             <header>
                 <div id="logo">
-                    <a href="index.aspx"><img src="images/logo_ict-bz_small.png" alt="Logo ICT-BZ" /></a>
+                    <a href="index.aspx"><img src="assets/images/logo_ict-bz_small.png" alt="Logo ICT-BZ" /></a>
                 </div>
             </header>
             <div class="nav-wrapper">
@@ -79,8 +79,8 @@
                         <li>1 ICT-Fachfrau</li>
                     </ul>
                     <p>
-                    <img src="images/23-27-BLJ-PLE.JPG" alt="Bild der Lernenden 2023"/>
-                    <img src="images/23-27-BLJ-APP.JPG" alt="Bild der Lernenden 2023"/>
+                    <img src="assets/images/23-27-BLJ-PLE.JPG" alt="Bild der Lernenden 2023"/>
+                    <img src="assets/images/23-27-BLJ-APP.JPG" alt="Bild der Lernenden 2023"/>
                         </p>
 
 
@@ -94,7 +94,7 @@
                         <li>3 ICT-Fachmänner</li>
                     </ul>
                     <p><strong>Herzlich Willkommen!</strong> </p>
-                    <img src="images/InfJump_2022.jpg" alt="Bild der Lernenden 2022"/>
+                    <img src="assets/images/InfJump_2022.jpg" alt="Bild der Lernenden 2022"/>
                     
                     
                     <h3>Der Jahrgang 21/22</h3>
@@ -109,13 +109,13 @@
                         <li>2 ICT-Fachfrauen</li>
                     </ul>
                     <p><strong>Herzlich Willkommen</strong> in Adligenswil liebe Lernende!</p>
-                    <img src="images/ll-2021-22.jpg" alt="Bild der Lernenden 2021"/>
+                    <img src="assets/images/ll-2021-22.jpg" alt="Bild der Lernenden 2021"/>
 
                     <h3>Danke Roger!</h3>
                     <span class="date-news">August 2020</span>
                     <p>Die Lernenden vom IT-BLJ sowie vom neuen MMA-BLJ bedanken sich im Video (69 MB) bei Roger Erni, der heute 28.08.2020 seinen letzten Arbeitstag bei ICT-BZ 
                         hatte. Danke Roger! Und toi toi für deine neue Herausforderung im Krienser Stadtrat!</p>
-		            <video src="blj-danke-roger.mp4" controls style="width:675px; height:auto;">
+		            <video src="assets/videos/blj-danke-roger.mp4" controls style="width:675px; height:auto;">
 			            Ihr Browser kann dieses Video nicht wiedergeben.
 		            </video>
 
@@ -125,7 +125,7 @@
                         19 Lernende starten am 12.08.2020 das Basislehrjahr. Willkommen bei ICT-BZ.<br />
                         Und ein SPECIAL WELCOME an Kilian Bürli, unseren neuen BLJ-Coach.
                     </p>
-                    <img src="images/blj-ll-202021.jpg" alt="Bild der Lernenden 2020"/>
+                    <img src="assets/images/blj-ll-202021.jpg" alt="Bild der Lernenden 2020"/>
 
                     <h3>Corona-Lockdown</h3>
                     <span class="date-news">April 2020</span>
@@ -262,23 +262,23 @@
                     So krass sieht's bei den Lernenden zu Hause im Home-Office aus :-)</p>
                     <div class="gallery">
                        <div class="thumbnail">
-                            <a href ="images/homeoffice/01.jpg" data-title="Arbeitsplatz von ???" data-lightbox="homeoffice">
-                              <img src="images/homeoffice/01_s.jpg" alt="Bild" />
+                            <a href ="assets/images/homeoffice/01.jpg" data-title="Arbeitsplatz von ???" data-lightbox="homeoffice">
+                              <img src="assets/images/homeoffice/01_s.jpg" alt="Bild" />
                             </a>
                         </div>
                         <div class="thumbnail">
-                            <a href ="images/homeoffice/02.jpg" data-title="Arbeitsplatz von ???" data-lightbox="homeoffice">
-                              <img src="images/homeoffice/02_s.jpg" alt="Bild" />
+                            <a href ="assets/images/homeoffice/02.jpg" data-title="Arbeitsplatz von ???" data-lightbox="homeoffice">
+                              <img src="assets/images/homeoffice/02_s.jpg" alt="Bild" />
                             </a>
                         </div>
                        <div class="thumbnail">
-                            <a href ="images/homeoffice/03.jpg" data-title="Arbeitsplatz von ???" data-lightbox="homeoffice">
-                              <img src="images/homeoffice/03_s.jpg" alt="Bild" />
+                            <a href ="assets/images/homeoffice/03.jpg" data-title="Arbeitsplatz von ???" data-lightbox="homeoffice">
+                              <img src="assets/images/homeoffice/03_s.jpg" alt="Bild" />
                             </a>
                         </div>
                        <div class="thumbnail">
-                            <a href ="images/homeoffice/04.jpg" data-title="Arbeitsplatz von ???" data-lightbox="homeoffice">
-                              <img src="images/homeoffice/04_s.jpg" alt="Bild" />
+                            <a href ="assets/images/homeoffice/04.jpg" data-title="Arbeitsplatz von ???" data-lightbox="homeoffice">
+                              <img src="assets/images/homeoffice/04_s.jpg" alt="Bild" />
                             </a>
                         </div>
                     </div>
@@ -287,19 +287,19 @@
                     <span class="date-news">August 2019</span>
                     <p>Wir wachsen! 14 Lernende beginnen das Basislehrjahr mit dem Jump-In im Maderanertal.
                     </p>
-                    <img src="images/blj-ll-201920.jpg" alt="Bild der Lernenden 2019"/>
+                    <img src="assets/images/blj-ll-201920.jpg" alt="Bild der Lernenden 2019"/>
 
                     <h3>Der Jahrgang 18/19</h3>
                     <span class="date-news">August 2018</span>
                     <p>Herzlich Willkommen!  
                     </p>
-                    <img src="images/blj-ll-201819.jpg" alt="Bild der Lernenden 2018"/>
+                    <img src="assets/images/blj-ll-201819.jpg" alt="Bild der Lernenden 2018"/>
 
                     <h3>Der Jahrgang 17/18</h3>
                     <span class="date-news">August 2017</span>
                     <p>Die "neuen" Lernenden :)
                     </p>
-                    <img src="images/gruppe_2017.jpg" alt="Bild der Lernenden 2017"/>
+                    <img src="assets/images/gruppe_2017.jpg" alt="Bild der Lernenden 2017"/>
                     <!-- 
                         <h3>Ein Tag im BLJ</h3>
                         <span class="date-news">September 2016</span>
@@ -312,7 +312,7 @@
                     <span class="date-news">August 2016</span>
                     <p>Die Pioniere! 
                     </p>
-                    <img src="images/gruppe_2016.jpg" alt="Bild der Lernenden 2016"/>
+                    <img src="assets/images/gruppe_2016.jpg" alt="Bild der Lernenden 2016"/>
                 </section> <!-- /news --> 
                 <section id="projects">
                     <h2>Projekte</h2>
@@ -372,64 +372,64 @@
                         <h2>Kooperationspartner</h2>
 
                         <a href="http://www.css.ch/" target="_blank">
-                            <img src="images/logo_css.jpg" alt="Logo CSS Versicherung" />
+                            <img src="assets/images/logo_css.jpg" alt="Logo CSS Versicherung" />
                         </a>
                         <a href="http://www.komaxgroup.com/" target="_blank">
-                            <img src="images/logo_komax.png" alt="Logo Komax Wire" />
+                            <img src="assets/images/logo_komax.png" alt="Logo Komax Wire" />
                         </a>
                         <a href="http://www.calida.ch/" target="_blank">
-                            <img src="images/logo_calida.png" alt="Logo Calida" />
+                            <img src="assets/images/logo_calida.png" alt="Logo Calida" />
                         </a>
                         <a href="http://www.phlu.ch/" target="_blank">
-                            <img src="images/logo_phlu.png" alt="Logo PHLU" />
+                            <img src="assets/images/logo_phlu.png" alt="Logo PHLU" />
                         </a>
                         <a href="https://www.edp.swiss/" target="_blank">
-                            <img src="images/logo_edp.jpg" alt="Logo edp-services" />
+                            <img src="assets/images/logo_edp.jpg" alt="Logo edp-services" />
                         </a>
                         <a href="https://www.also.ch/" target="_blank">
-                            <img src="images/logo-also.jpg" alt="Logo ALSO" />
+                            <img src="assets/images/logo-also.jpg" alt="Logo ALSO" />
                         </a>
                         <a href="https://www.lukb.ch/" target="_blank">
-                            <img src="images/logo_lukb.jpg" alt="Logo Luzerner Kantonalbank" />
+                            <img src="assets/images/logo_lukb.jpg" alt="Logo Luzerner Kantonalbank" />
                         </a>
                         <a href="https://www.maxonmotor.ch/" target="_blank">
-                            <img src="images/logo_maxon.jpg" alt="Logo Maxon Motor" />
+                            <img src="assets/images/logo_maxon.jpg" alt="Logo Maxon Motor" />
                         </a>
                         <a href="https://www.suva.ch/" target="_blank">
-                            <img src="images/logo_suva.png" alt="Logo SUVA" />
+                            <img src="assets/images/logo_suva.png" alt="Logo SUVA" />
                         </a>
                         <a href="https://www.hslu.ch/" target="_blank">
-                            <img src="images/logo_hslu.jpg" alt="Logo HSLU" />
+                            <img src="assets/images/logo_hslu.jpg" alt="Logo HSLU" />
                         </a>
                         <a href="https://www.concordia.ch/" target="_blank">
-                            <img src="images/logo-concordia.png" alt="Logo Concordia" />
+                            <img src="assets/images/logo-concordia.png" alt="Logo Concordia" />
                         </a>
                         <a href="https://www.trisa.ch/" target="_blank">
-                            <img src="images/logo-trisa.png" alt="Logo Trisa" />
+                            <img src="assets/images/logo-trisa.png" alt="Logo Trisa" />
                         </a>
                          <a href="https://lu-its.ch/" target="_blank">
-                            <img src="images/logo-luits.png" alt="Logo Luzerner IT Solution" />
+                            <img src="assets/images/logo-luits.png" alt="Logo Luzerner IT Solution" />
                         </a>
                         <a href="https://parcom.ch/" target="_blank">
-                            <img src="images/logo_parcom.jpg" alt="Logo Parcom" />
+                            <img src="assets/images/logo_parcom.jpg" alt="Logo Parcom" />
                         </a>
                         <a href="https://www.creanet.ch/home" target="_blank">
-                            <img src="images/logo_creanet.jpg" alt="Logo Creanet" />
+                            <img src="assets/images/logo_creanet.jpg" alt="Logo Creanet" />
                         </a>
                         <a href="https://www.ajila.com/" target="_blank">
-                            <img src="images/logo_ajila.png" alt="Logo Ajila" />
+                            <img src="assets/images/logo_ajila.png" alt="Logo Ajila" />
                         </a>
                         <a href="https://www.ckw.ch/" target="_blank">
-                            <img src="images/logo_ckw.jpg" alt="Logo CKW" />
+                            <img src="assets/images/logo_ckw.jpg" alt="Logo CKW" />
                         </a>
                         <a href="https://www.xappido.com/" target="_blank">
-                            <img src="images/logo_xappido.png" alt="Logo xappido" />
+                            <img src="assets/images/logo_xappido.png" alt="Logo xappido" />
                         </a>
                         <a href="https://www.schurter.com/" target="_blank">
-                            <img src="images/logo_schurter.png" alt="Logo Schurter" />
+                            <img src="assets/images/logo_schurter.png" alt="Logo Schurter" />
                         </a>
                         <a href="https://informatik.lu.ch/" target="_blank">
-                            <img src="images/logo_diin.jpg" alt="Logo DIIN" />
+                            <img src="assets/images/logo_diin.jpg" alt="Logo DIIN" />
                         </a>
 
                         
@@ -440,7 +440,6 @@
             </div>    
         </form>
     </div> <!-- /wrapper -->
-    <script src="../assets/js/vue.js" ></script>
     <script>
         function showAnswer(id) {
             if (document.getElementById("answer-" + id).style.display === "block")
