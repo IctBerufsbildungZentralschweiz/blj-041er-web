@@ -123,7 +123,7 @@ header #logo {
     height: 415px;
     padding-top: 95px;
     margin:0;
-    background:rgbA(239, 124, 0, 1) url(/images/intro.png) no-repeat center top;
+    background:rgbA(239, 124, 0, 1) url(/assets/images/intro.png) no-repeat center top;
     background-size: cover;
    /* border-top:1px solid red; */
 }
