@@ -68,6 +68,28 @@
                 <section id="news">
                     <h2>News</h2>
 
+
+                     <h3>Der Jahrgang 24/25</h3>
+                     <span class="date-news">August 2024</span>
+                     <p>
+                         😯 Schon wieder Rekord 😀 
+                      </p>
+                    <p>
+                         Wir begrüssen total 34 Lernende im Informatik-Basislehrjahr!
+                    </p>
+                     <ul>
+                         <li>22 Applikationsentwickler/-innen</li>
+                         <li>7 Plattformentwickler</li> 
+                         <li>3 ICT-Fachmänner</li>
+                         <li>2 Entwickler Digitales Business</li>
+                     </ul>
+                    <p>
+                        Im Bild die Applikationsentwickler/-innen (auf der Tannalp während des Jump-In).
+                    </p>
+                     <p>
+                         <img src="assets/images/InfJump_2024.jpg" alt="Bild der Lernenden 2023"/>
+                     </p>
+
                     <h3>Der Jahrgang 23/24</h3>
                     <span class="date-news">August 2023</span>
                     <p>
@@ -79,9 +101,9 @@
                         <li>1 ICT-Fachfrau</li>
                     </ul>
                     <p>
-                    <img src="assets/images/23-27-BLJ-PLE.JPG" alt="Bild der Lernenden 2023"/>
-                    <img src="assets/images/23-27-BLJ-APP.JPG" alt="Bild der Lernenden 2023"/>
-                        </p>
+                        <img src="assets/images/23-27-BLJ-PLE.JPG" alt="Bild der Lernenden 2023"/>
+                        <img src="assets/images/23-27-BLJ-APP.JPG" alt="Bild der Lernenden 2023"/>
+                    </p>
 
 
                     <h3>Der Jahrgang 22/23</h3>
