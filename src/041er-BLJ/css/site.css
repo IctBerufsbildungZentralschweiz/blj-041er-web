@@ -71,10 +71,22 @@ a.answer-button:hover {
     text-decoration: none;
 }
 
-img, video {
-    max-width:100%;
-    height:auto;
+
+p .important {
+    display: inline-block;
+    background-color: #ea5757cc;
+    color: white;
+    font-weight: bold;
+    padding: 0 10px;
+    border-radius: 5px;
 }
+img, video {
+    max-width: 100%;
+    height: auto;
+    /* box-shadow: 5px 5px rgb(220, 220, 220, 0.3); */
+    border-radius: 5px;
+}
+
 q {
     color: #999999;
     font-style:oblique;
@@ -190,7 +202,7 @@ nav li a:hover {
 
 main {
     clear:both;
-    padding: 0 8% 0 4%;
+    padding: 0 20% 0 4%;
 }
 
 main .date-news {
@@ -334,6 +346,10 @@ footer #partner a {
     footer #partner a {
         margin: 0 0 45px 0;
 
+    }
+
+    li {
+        list-style-type: none;
     }
 }
 

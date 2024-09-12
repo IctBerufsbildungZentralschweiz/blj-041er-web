@@ -69,7 +69,7 @@
                     <h2>News</h2>
 
 
-                     <h3>Der Jahrgang 24/25</h3>
+                     <h3>Lehrstart 24/25</h3>
                      <span class="date-news">August 2024</span>
                      <p>
                          😯 Schon wieder Rekord 😀 
@@ -82,13 +82,19 @@
                          <li>7 Plattformentwickler</li> 
                          <li>3 ICT-Fachmänner</li>
                          <li>2 Entwickler Digitales Business</li>
-                     </ul>
+  
+                    </ul>
                     <p>
-                        Im Bild die Applikationsentwickler/-innen (auf der Tannalp während des Jump-In).
+                        Hier im Bild die Applikationsentwickler/-innen (auf der Tannalp während des Jump-In).
                     </p>
                      <p>
                          <img src="assets/images/InfJump_2024.jpg" alt="Bild der Lernenden 2023"/>
                      </p>
+                     
+                    <h4>Last but not least</h4>
+                    <p>Und last but not least a special welcome to <span class="important">Manuel Gut</span>. Manuel ist unser neuer BLJ-Coach für die Applis und wir finden, er ist unglaublich gut gestartet.
+                        <br />Toll dich im Team zu haben, lieber Manuel!
+                    </p>   
 
                     <h3>Der Jahrgang 23/24</h3>
                     <span class="date-news">August 2023</span>
