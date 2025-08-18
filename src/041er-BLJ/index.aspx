@@ -68,6 +68,24 @@
                 <section id="news">
                     <h2>News</h2>
 
+                     <h3>Lehrstart 25/26</h3>
+                     <span class="date-news">August 2025</span>
+                     <p>
+                         44 (vierundvierzig!) Lernende beginnen das Basislehrjahr bei ICT-BZ am neuen Standort am Mattenhof in Kriens.
+                      </p>
+                      <ul>
+                         <li>24 Applikationsentwickler</li>
+                         <li>4 ICT Fachmänner/Fachfrauen</li> 
+                         <li>5 Plattformentwickler</li>
+                         <li>10 Mediamatiker/innen</li>
+                         <li>1 Entwickler Digitales Business</li>
+                    </ul>
+                    <p>
+                        Im Bild die Applikationsentwickler (auf der Schynigen Platte während des Jump-In).
+                    </p>
+                     <p>
+                         <img src="assets/images/blj-ll-2526.jpg" alt="Bild der Lernenden 2025"/>
+                     </p>
 
                      <h3>Lehrstart 24/25</h3>
                      <span class="date-news">August 2024</span>
@@ -88,7 +106,7 @@
                         Hier im Bild die Applikationsentwickler/-innen (auf der Tannalp während des Jump-In).
                     </p>
                      <p>
-                         <img src="assets/images/InfJump_2024.jpg" alt="Bild der Lernenden 2023"/>
+                         <img src="assets/images/InfJump_2024.jpg" alt="Bild der Lernenden 2024"/>
                      </p>
                      
                     <h4>Last but not least</h4>
